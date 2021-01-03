@@ -14,6 +14,10 @@ https://www.kaggle.com/burak3ergun/loan-data-set?select=loan_data_set.csv
 
 Having a visual summary of the information makes it easier to identify patterns and trends than to look at the lines of a spreadsheet. For that I used seaborn which is a Python data visualization library based on matplotlib.
 
+| ![](/Graphics/Gender.png) | ![](./Graphics/Married.png) | ![](./Graphics/Self_Employed.png)|
+|:-:|:-:|:-:|
+| ![](/Graphics/Credit_History.png) | ![](./Graphics/Property_Area.png) | ![](./Graphics/Loan_Amount_Term.png)|
+|:-:|:-:|:-:|
 ### _Transforming categorical variables into numeric ones_
 To work with machine learning we need to transform categorical variables into numeric ones. For this I used the pandas get_dummies method.
 
