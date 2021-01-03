@@ -17,7 +17,7 @@ Having a visual summary of the information makes it easier to identify patterns 
 | ![](/Graphics/Gender.png) | ![](./Graphics/Married.png) | ![](./Graphics/Self_Employed.png)|
 |:-:|:-:|:-:|
 | ![](/Graphics/Credit_History.png) | ![](./Graphics/Property_Area.png) | ![](./Graphics/Loan_Amount_Term.png)|
-|:-:|:-:|:-:|
+
 ### _Transforming categorical variables into numeric ones_
 To work with machine learning we need to transform categorical variables into numeric ones. For this I used the pandas get_dummies method.
 
